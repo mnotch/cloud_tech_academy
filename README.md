@@ -1,0 +1,2 @@
+# cloud_tech_academy
+cloud_tech_academyハンズオン用
